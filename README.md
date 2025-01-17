@@ -7,6 +7,7 @@
 | ------- |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2478-longest-nice-subarray](https://github.com/gskabdwal/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gskabdwal/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -22,6 +23,7 @@
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2478-longest-nice-subarray](https://github.com/gskabdwal/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gskabdwal/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -46,6 +48,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2478-longest-nice-subarray](https://github.com/gskabdwal/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gskabdwal/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Greedy
 |  |
