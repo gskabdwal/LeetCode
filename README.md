@@ -8,6 +8,7 @@
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
+| [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gskabdwal/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 ## Dynamic Programming
@@ -21,6 +22,7 @@
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
+| [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gskabdwal/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/gskabdwal/LeetCode/tree/master/3394-minimum-array-end) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
+| [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 ## Prefix Sum
 |  |
 | ------- |
