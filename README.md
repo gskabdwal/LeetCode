@@ -13,6 +13,7 @@
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gskabdwal/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/gskabdwal/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gskabdwal/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/gskabdwal/LeetCode/tree/master/3394-minimum-array-end) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/gskabdwal/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Bitmask
 |  |
 | ------- |
@@ -66,10 +68,12 @@
 |  |
 | ------- |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/gskabdwal/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Segment Tree
 |  |
 | ------- |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/gskabdwal/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Brainteaser
 |  |
 | ------- |
