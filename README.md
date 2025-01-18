@@ -48,6 +48,7 @@
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gskabdwal/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gskabdwal/LeetCode/tree/master/0342-power-of-four) |
+| [0372-super-pow](https://github.com/gskabdwal/LeetCode/tree/master/0372-super-pow) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Hash Table
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/gskabdwal/LeetCode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
