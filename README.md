@@ -23,6 +23,7 @@
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/gskabdwal/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/gskabdwal/LeetCode/tree/master/0342-power-of-four) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/gskabdwal/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gskabdwal/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gskabdwal/LeetCode/tree/master/0342-power-of-four) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Hash Table
 |  |
@@ -86,4 +88,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gskabdwal/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gskabdwal/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
