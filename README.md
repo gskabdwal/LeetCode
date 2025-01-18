@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/gskabdwal/LeetCode/tree/master/0326-power-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Hash Table
 |  |
@@ -84,4 +85,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/gskabdwal/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
