@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gskabdwal/LeetCode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/gskabdwal/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/gskabdwal/LeetCode/tree/master/0326-power-of-three) |
@@ -67,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/gskabdwal/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
 ## Sliding Window
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gskabdwal/LeetCode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/gskabdwal/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/gskabdwal/LeetCode/tree/master/0326-power-of-three) |
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/gskabdwal/LeetCode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
