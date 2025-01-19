@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2478-longest-nice-subarray](https://github.com/gskabdwal/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -50,6 +51,7 @@
 | [0342-power-of-four](https://github.com/gskabdwal/LeetCode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/gskabdwal/LeetCode/tree/master/0372-super-pow) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2050-count-good-numbers](https://github.com/gskabdwal/LeetCode/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gskabdwal/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
@@ -98,6 +100,7 @@
 | [0326-power-of-three](https://github.com/gskabdwal/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gskabdwal/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/gskabdwal/LeetCode/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gskabdwal/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Memoization
@@ -108,4 +111,12 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/gskabdwal/LeetCode/tree/master/0372-super-pow) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
