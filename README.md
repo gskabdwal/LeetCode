@@ -52,6 +52,7 @@
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2050-count-good-numbers](https://github.com/gskabdwal/LeetCode/tree/master/2050-count-good-numbers) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gskabdwal/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gskabdwal/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 ## Prefix Sum
@@ -97,6 +99,7 @@
 | [0342-power-of-four](https://github.com/gskabdwal/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/gskabdwal/LeetCode/tree/master/2050-count-good-numbers) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gskabdwal/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Memoization
 |  |
 | ------- |
