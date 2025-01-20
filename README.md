@@ -8,6 +8,7 @@
 | [0046-permutations](https://github.com/gskabdwal/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gskabdwal/LeetCode/tree/master/0047-permutations-ii) |
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -25,6 +26,7 @@
 | [0044-wildcard-matching](https://github.com/gskabdwal/LeetCode/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 ## Bit Manipulation
@@ -33,6 +35,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/gskabdwal/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/gskabdwal/LeetCode/tree/master/0342-power-of-four) |
+| [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/gskabdwal/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -48,6 +51,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 ## Math
 |  |
@@ -163,5 +167,6 @@
 | ------- |
 | [0046-permutations](https://github.com/gskabdwal/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gskabdwal/LeetCode/tree/master/0047-permutations-ii) |
+| [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gskabdwal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
