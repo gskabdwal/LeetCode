@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gskabdwal/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/gskabdwal/LeetCode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/gskabdwal/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gskabdwal/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/gskabdwal/LeetCode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/gskabdwal/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
