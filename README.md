@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gskabdwal/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/gskabdwal/LeetCode/tree/master/0047-permutations-ii) |
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -158,4 +159,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gskabdwal/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/gskabdwal/LeetCode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
