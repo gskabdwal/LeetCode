@@ -1,30 +1,20 @@
 class Solution {
-
-    void rec(string &s, int i, string &comb, vector<string> &ans){
-
-        if(i>=s.size()){
-            ans.push_back(comb);
+    void backtrack(string &s, int i, vector<string> &res) {
+        if (i == s.size()) {
+            res.push_back(s);
             return;
         }
-
-        if(!isdigit(s[i])){
-            for(char c = s[i], cnt = 0; cnt<=2&&c>=65&&c<=132; cnt++,c += s[i]<97?32:-32){
-                comb += c;
-                rec(s,i+1,comb,ans);
-                comb.pop_back();
-            }
-        }
-        else{
-            comb += s[i];
-            rec(s,i+1,comb,ans);
-            comb.pop_back();
+        backtrack(s, i + 1, res);
+        if (isalpha(s[i])) {
+            // toggle case
+            s[i] ^= (1 << 5);
+            backtrack(s, i + 1, res);
         }
     }
 public:
-    vector<string> letterCasePermutation(string s) {
-        string comb;
-        vector<string> ans;
-        rec(s,0,comb,ans);
-        return ans;
+    vector<string> letterCasePermutation(string S) {
+        vector<string> res;
+        backtrack(S, 0, res);
+        return res;
     }
 };
