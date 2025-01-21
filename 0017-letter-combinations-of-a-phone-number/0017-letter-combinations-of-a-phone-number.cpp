@@ -6,7 +6,7 @@ public:
         "mno", "pqrs", "tuv", "wxyz"
     };
 
-    void generateCombs(string digits, int i, string comb ,vector<string>& ans){
+    void generateCombs(string digits, int i, string &comb ,vector<string>& ans){
 
         if(digits.empty())
             return;
@@ -20,16 +20,17 @@ public:
 
 
         for(char ch: keypad[digit]){
-
-            generateCombs(digits,i+1,comb+ch,ans);
-            
+            comb += ch;
+            generateCombs(digits,i+1,comb,ans);
+            comb.pop_back();
         }
 
     }
 
     vector<string> letterCombinations(string digits) {
         vector<string> ans;
-        generateCombs(digits,0,"",ans);
+        string comb;
+        generateCombs(digits,0,comb,ans);
         return ans;    
     }
 };
