@@ -1,30 +1,28 @@
 class Solution {
 
-    void getStrings(int n, int k, int i,vector<string> &ans, char prev, string &cur){
-        
-        if(ans.size()>=k) return;
-        
+    string getString(int n, int &k, int i, char prev, string &cur){
+
         if(i>=n){
-            ans.push_back(cur);
-            return;
+            k--;
+            return "";
         }
 
         for(char c = 'a'; c<='c'; c++){
 
             if(c!=prev){
                 cur += c;
-                getStrings(n,k,i+1,ans,c,cur);
+                getString(n,k,i+1,c,cur);
+                if(k==0) return cur;
                 cur.pop_back();
             }
         }
+
+        return "";
     }
 
 public:
     string getHappyString(int n, int k) {
-        vector<string> ans;
         string cur;
-        getStrings(n,k,0,ans,'&',cur);
-        if(ans.size()<k) return "";
-        return ans[k-1];
+        return getString(n,k,0,'&',cur);
     }
 };
