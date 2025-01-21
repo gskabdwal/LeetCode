@@ -9,6 +9,7 @@ class Solution {
             // toggle case
             s[i] ^= (1 << 5);
             backtrack(s, i + 1, res);
+            s[i] ^= (1 << 5);
         }
     }
 public:
