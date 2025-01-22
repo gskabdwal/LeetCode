@@ -23,6 +23,7 @@
 | [2078-maximum-compatibility-score-sum](https://github.com/gskabdwal/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2478-longest-nice-subarray](https://github.com/gskabdwal/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gskabdwal/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -40,6 +41,7 @@
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2078-maximum-compatibility-score-sum](https://github.com/gskabdwal/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,12 +90,14 @@
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2050-count-good-numbers](https://github.com/gskabdwal/LeetCode/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gskabdwal/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gskabdwal/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0491-non-decreasing-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## String
 |  |
 | ------- |
@@ -205,8 +209,17 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gskabdwal/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2078-maximum-compatibility-score-sum](https://github.com/gskabdwal/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gskabdwal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/gskabdwal/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
+## Sorting
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
