@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gskabdwal/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/gskabdwal/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gskabdwal/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gskabdwal/LeetCode/tree/master/0046-permutations) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gskabdwal/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/gskabdwal/LeetCode/tree/master/0037-sudoku-solver) |
 | [0491-non-decreasing-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gskabdwal/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/gskabdwal/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/gskabdwal/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gskabdwal/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gskabdwal/LeetCode/tree/master/0046-permutations) |
@@ -222,4 +225,8 @@
 |  |
 | ------- |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/gskabdwal/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
