@@ -31,14 +31,15 @@ public:
         vector<int> ans;
         stack<TreeNode*> st;
 
-        st.push(root);
+        auto node = root;
 
-        while(st.size()){
+        while(node){
 
-            auto node = st.top(); st.pop();
             ans.push_back(node->val);
+            
             if(node->right) st.push(node->right);
-            if(node->left) st.push(node->left);
+            node = node->left;
+            if(!node && st.size()) node = st.top(), st.pop();
 
         }
 
