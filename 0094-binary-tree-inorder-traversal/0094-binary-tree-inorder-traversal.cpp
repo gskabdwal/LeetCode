@@ -25,28 +25,18 @@ public:
 
 
     vector<int> inorderTraversal(TreeNode* root) {
-        if(!root) return {};
-
-        vector<int> ans;
-        stack<TreeNode*> st;
-
-        auto node = root;
-
-        while(1){
-            
-            if(node){
-                st.push(node);
-                node = node->left;
-            } 
-            else{
-                if(st.size()==0) return ans;
-                auto n = st.top(); st.pop();
-                ans.push_back(n->val);
-                if(n->right) node = n->right;
+        vector<int> nodes;
+        stack<TreeNode*> todo;
+        while (root || !todo.empty()) {
+            while (root) {
+                todo.push(root);
+                root = root -> left;
             }
-
+            root = todo.top();
+            todo.pop();
+            nodes.push_back(root -> val);
+            root = root -> right;
         }
-
-        return ans;
+        return nodes;
     }
 };
