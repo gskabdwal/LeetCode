@@ -223,6 +223,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/gskabdwal/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Sorting
 |  |
@@ -247,6 +248,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gskabdwal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -268,4 +270,5 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gskabdwal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
