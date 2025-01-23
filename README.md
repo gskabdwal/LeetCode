@@ -20,6 +20,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/gskabdwal/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -103,6 +104,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0491-non-decreasing-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## String
@@ -181,6 +183,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0372-super-pow](https://github.com/gskabdwal/LeetCode/tree/master/0372-super-pow) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -256,6 +259,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gskabdwal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -280,5 +284,6 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gskabdwal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
