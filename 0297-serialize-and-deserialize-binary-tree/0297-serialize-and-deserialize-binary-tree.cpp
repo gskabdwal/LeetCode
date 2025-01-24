@@ -8,54 +8,38 @@
  * };
  */
 class Codec {
+
+        
+private:
+    
+    TreeNode* buildTree(istringstream& ss)
+    {
+        string s;
+        ss >> s;
+        
+        if (s == "null")
+			return NULL;
+        
+        TreeNode* node = new TreeNode(stoi(s));
+        node->left = buildTree(ss);
+        node->right = buildTree(ss);
+            
+        return node;
+    }
+
 public:
 
-    int extractNum(string &data, int &i ){
-        i++;
-        int num = 0, s=1;
-        if(data[i]=='-'){
-            s = -1;
-            i++;
-        }
-        while(data[i]!='*'){
-            num = num *10 + data[i]-'0';
-            i++;
-        }
-        i++;
-
-        return s*num;
+    string serialize(TreeNode* root) 
+    {
+        return !root ? " null" : " " + to_string(root->val) + serialize(root->left) + serialize(root->right);
+    }
+	
+    TreeNode* deserialize(string data) 
+    {   cout<<data;
+        istringstream ss(data);
+        return buildTree(ss);
     }
 
-    TreeNode* de(string data, int &i) {
-        
-        if(data[i]=='#'){
-            i++;
-            return NULL;
-        } 
-
-        int num = extractNum(data,i);
-        auto root = new TreeNode(num);
-        
-        root->left = de(data, i);    
-        root->right = de(data, i);    
-
-        return root;
-    }
-
-    // Encodes a tree to a single string.
-    string serialize(TreeNode* root) {
-        
-        if(!root) return "#";
-
-        return '*'+to_string(root->val)+'*'+serialize(root->left)+serialize(root->right);
-    }
-
-    // Decodes your encoded data to tree.
-    TreeNode* deserialize(string data) {
-        int i = 0;
-        cout<<data;
-        return de(data,i);
-    }
 };
 
 // Your Codec object will be instantiated and called as such:
