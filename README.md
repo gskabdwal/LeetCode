@@ -262,6 +262,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gskabdwal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gskabdwal/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -276,6 +277,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gskabdwal/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -291,7 +293,16 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gskabdwal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gskabdwal/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
