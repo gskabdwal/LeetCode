@@ -236,6 +236,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gskabdwal/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gskabdwal/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/gskabdwal/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1035-cousins-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -269,6 +270,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gskabdwal/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/gskabdwal/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -286,6 +288,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gskabdwal/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/gskabdwal/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
@@ -306,6 +309,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gskabdwal/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/gskabdwal/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
