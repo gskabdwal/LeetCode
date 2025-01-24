@@ -11,17 +11,46 @@
  */
 class Solution {
 
-    bool isSame(TreeNode* r, TreeNode* s){
-        if(!r&&!s) return true;
-        if(!r||!s) return false;
-        return r->val==s->val&&isSame(r->left,s->left)&&isSame(r->right,s->right);
-    }
-public:
-    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        
-        if(!root) return false;
-        if(isSame(root,subRoot)) return true;
+    string computeHash(TreeNode *root, unordered_map<TreeNode*, string> &hash){
+        if(!root)
+        return "#";
 
-        return isSubtree(root->left,subRoot)||isSubtree(root->right,subRoot);
+        string leftHash=computeHash(root->left, hash);
+        string rightHash=computeHash(root->right, hash);
+
+        hash[root]='*'+to_string(root->val)+'*'+leftHash+rightHash;
+        return hash[root];
+    }
+
+    bool isSame(TreeNode* root, TreeNode* subRoot, unordered_map<TreeNode*, string> &hash){
+        if(!root and !subRoot)
+        return true;
+
+        if(!root or !subRoot)
+        return false;
+
+        if(hash[root]==hash[subRoot])
+        return true;
+
+        return isSame(root->left, subRoot, hash) or isSame(root->right, subRoot, hash);;
+    }
+
+  public:
+
+    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+        //O(S+T) soln using idea that preorder traversal of any tree involving NULL is 
+        //always unique
+        if(!root and !subRoot)
+        return true;
+
+        if(!root or !subRoot)
+        return false;
+
+        unordered_map<TreeNode*, string> hash;
+
+        computeHash(root, hash);
+        computeHash(subRoot, hash);
+
+        return isSame(root, subRoot, hash);
     }
 };
