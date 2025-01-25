@@ -15,6 +15,7 @@
 | [0090-subsets-ii](https://github.com/gskabdwal/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0216-combination-sum-iii](https://github.com/gskabdwal/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0372-super-pow](https://github.com/gskabdwal/LeetCode/tree/master/0372-super-pow) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Queue
@@ -277,6 +279,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gskabdwal/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gskabdwal/LeetCode/tree/master/0112-path-sum) |
@@ -343,6 +346,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gskabdwal/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gskabdwal/LeetCode/tree/master/0112-path-sum) |
@@ -389,6 +393,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/gskabdwal/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
