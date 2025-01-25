@@ -15,9 +15,12 @@ class Solution {
 
         if(root==NULL) return;
         
-        if(root->val<=high&&root->val>=low) ans += root->val;
 
         inOrder(root->left,low,high,ans);
+        if(root->val<=high&&root->val>=low){
+            ans += root->val;
+        } 
+        if(root->val>high) return;
         inOrder(root->right,low,high,ans);
    
     }
