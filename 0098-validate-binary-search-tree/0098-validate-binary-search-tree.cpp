@@ -14,7 +14,7 @@ class Solution {
 
     void inOrder(TreeNode * root, TreeNode* &prev, bool &ans){
 
-        if(!root) return;
+        if(!ans || !root) return;
 
         inOrder(root->left, prev,ans);
         if(prev!=NULL){
