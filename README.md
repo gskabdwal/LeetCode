@@ -117,6 +117,7 @@
 | [0044-wildcard-matching](https://github.com/gskabdwal/LeetCode/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/gskabdwal/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/gskabdwal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/gskabdwal/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0763-special-binary-string](https://github.com/gskabdwal/LeetCode/tree/master/0763-special-binary-string) |
@@ -221,6 +222,7 @@
 | [0078-subsets](https://github.com/gskabdwal/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gskabdwal/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/gskabdwal/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/gskabdwal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/gskabdwal/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
@@ -279,6 +281,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gskabdwal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/gskabdwal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/gskabdwal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -303,6 +306,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gskabdwal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/gskabdwal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -329,6 +333,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gskabdwal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/gskabdwal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/gskabdwal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
