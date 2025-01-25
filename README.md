@@ -317,6 +317,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gskabdwal/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gskabdwal/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
@@ -349,6 +350,7 @@
 | [0904-leaf-similar-trees](https://github.com/gskabdwal/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gskabdwal/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -391,6 +393,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gskabdwal/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gskabdwal/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## String Matching
 |  |
@@ -421,6 +424,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gskabdwal/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
