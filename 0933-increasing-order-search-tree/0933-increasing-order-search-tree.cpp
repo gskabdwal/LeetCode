@@ -33,10 +33,11 @@ class Solution {
     }
 
 public:
-    TreeNode* increasingBST(TreeNode* root) {
-        TreeNode grand;
-        grand.right = root;
-        solve(&grand);
-        return grand.right;
+    TreeNode* increasingBST(TreeNode* root, TreeNode* tail = NULL) {
+        if (!root) return tail;
+        TreeNode* res = increasingBST(root->left, root);
+        root->left = NULL;
+        root->right = increasingBST(root->right, tail);
+        return res;
     }
 };
