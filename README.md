@@ -23,6 +23,7 @@
 | [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -47,6 +48,7 @@
 | [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2078-maximum-compatibility-score-sum](https://github.com/gskabdwal/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -96,6 +98,7 @@
 | [0372-super-pow](https://github.com/gskabdwal/LeetCode/tree/master/0372-super-pow) |
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2050-count-good-numbers](https://github.com/gskabdwal/LeetCode/tree/master/2050-count-good-numbers) |
@@ -189,6 +192,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,6 +203,7 @@
 | [0372-super-pow](https://github.com/gskabdwal/LeetCode/tree/master/0372-super-pow) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Queue
 |  |
 | ------- |
@@ -278,6 +283,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Matrix
 |  |
@@ -337,6 +343,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gskabdwal/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gskabdwal/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
@@ -432,6 +439,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gskabdwal/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gskabdwal/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## String Matching
 |  |
@@ -473,6 +481,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gskabdwal/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -481,4 +490,8 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gskabdwal/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Union Find
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
