@@ -37,6 +37,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/gskabdwal/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
@@ -127,6 +128,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## String
 |  |
@@ -232,6 +234,7 @@
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/gskabdwal/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Game Theory
 |  |
 | ------- |
@@ -306,6 +309,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/gskabdwal/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Combinatorics
 |  |
@@ -552,6 +556,7 @@
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/gskabdwal/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/gskabdwal/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Bucket Sort
 |  |
 | ------- |
