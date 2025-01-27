@@ -34,6 +34,7 @@
 | [1962-single-threaded-cpu](https://github.com/gskabdwal/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2012-process-tasks-using-servers](https://github.com/gskabdwal/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2078-maximum-compatibility-score-sum](https://github.com/gskabdwal/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2478-longest-nice-subarray](https://github.com/gskabdwal/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -575,6 +576,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/gskabdwal/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/gskabdwal/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/gskabdwal/LeetCode/tree/master/1962-single-threaded-cpu) |
+| [2012-process-tasks-using-servers](https://github.com/gskabdwal/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/gskabdwal/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2543-most-popular-video-creator](https://github.com/gskabdwal/LeetCode/tree/master/2543-most-popular-video-creator) |
