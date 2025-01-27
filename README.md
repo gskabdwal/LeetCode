@@ -25,6 +25,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/gskabdwal/LeetCode/tree/master/1127-last-stone-weight) |
+| [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1762-furthest-building-you-can-reach](https://github.com/gskabdwal/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -127,6 +128,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -161,6 +163,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/gskabdwal/LeetCode/tree/master/0044-wildcard-matching) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
+| [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/gskabdwal/LeetCode/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -307,6 +310,7 @@
 | [0506-relative-ranks](https://github.com/gskabdwal/LeetCode/tree/master/0506-relative-ranks) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gskabdwal/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/gskabdwal/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -551,6 +555,7 @@
 | [0506-relative-ranks](https://github.com/gskabdwal/LeetCode/tree/master/0506-relative-ranks) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [1127-last-stone-weight](https://github.com/gskabdwal/LeetCode/tree/master/1127-last-stone-weight) |
+| [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/gskabdwal/LeetCode/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1762-furthest-building-you-can-reach](https://github.com/gskabdwal/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -569,4 +574,5 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gskabdwal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
+| [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
 <!---LeetCode Topics End-->
