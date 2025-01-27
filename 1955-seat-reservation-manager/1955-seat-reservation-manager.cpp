@@ -17,11 +17,9 @@ public:
     }
 
     void unreserve(int seatNumber) {
-        if (seatNumber == last) {
-            --last;
-        } else {
-            pq.push(seatNumber);
-        }
+       
+        pq.push(seatNumber);
+        
     }
 };
 
