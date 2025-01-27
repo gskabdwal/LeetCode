@@ -24,6 +24,7 @@
 | [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1127-last-stone-weight](https://github.com/gskabdwal/LeetCode/tree/master/1127-last-stone-weight) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -521,5 +522,6 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/gskabdwal/LeetCode/tree/master/0506-relative-ranks) |
+| [1127-last-stone-weight](https://github.com/gskabdwal/LeetCode/tree/master/1127-last-stone-weight) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/gskabdwal/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
