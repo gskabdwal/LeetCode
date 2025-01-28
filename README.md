@@ -30,6 +30,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gskabdwal/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/gskabdwal/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [1622-max-value-of-equation](https://github.com/gskabdwal/LeetCode/tree/master/1622-max-value-of-equation) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1762-furthest-building-you-can-reach](https://github.com/gskabdwal/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/gskabdwal/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -173,6 +174,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1622-max-value-of-equation](https://github.com/gskabdwal/LeetCode/tree/master/1622-max-value-of-equation) |
 | [2478-longest-nice-subarray](https://github.com/gskabdwal/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gskabdwal/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Greedy
@@ -257,6 +259,7 @@
 ## Queue
 |  |
 | ------- |
+| [1622-max-value-of-equation](https://github.com/gskabdwal/LeetCode/tree/master/1622-max-value-of-equation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -598,6 +601,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gskabdwal/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/gskabdwal/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [1622-max-value-of-equation](https://github.com/gskabdwal/LeetCode/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/gskabdwal/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/gskabdwal/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1917-maximum-average-pass-ratio](https://github.com/gskabdwal/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -630,4 +634,8 @@
 |  |
 | ------- |
 | [3363-most-frequent-ids](https://github.com/gskabdwal/LeetCode/tree/master/3363-most-frequent-ids) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/gskabdwal/LeetCode/tree/master/1622-max-value-of-equation) |
 <!---LeetCode Topics End-->
