@@ -53,6 +53,7 @@
 | [2078-maximum-compatibility-score-sum](https://github.com/gskabdwal/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gskabdwal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gskabdwal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gskabdwal/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/gskabdwal/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2478-longest-nice-subarray](https://github.com/gskabdwal/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -374,6 +375,7 @@
 | [1007-numbers-with-same-consecutive-differences](https://github.com/gskabdwal/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gskabdwal/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gskabdwal/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Sorting
 |  |
@@ -399,6 +401,7 @@
 | [1962-single-threaded-cpu](https://github.com/gskabdwal/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gskabdwal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gskabdwal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gskabdwal/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/gskabdwal/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/gskabdwal/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -423,6 +426,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/gskabdwal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gskabdwal/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/gskabdwal/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gskabdwal/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [3107-maximum-spending-after-buying-items](https://github.com/gskabdwal/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 ## Tree
 |  |
@@ -681,6 +685,7 @@
 | [2012-process-tasks-using-servers](https://github.com/gskabdwal/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gskabdwal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gskabdwal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gskabdwal/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/gskabdwal/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/gskabdwal/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
