@@ -12,7 +12,7 @@ public:
             bucket[diff[i]]++;
         }
         int k = k1 + k2;
-        for(int i = M; i > 0; --i) {
+        for(int i = M; i > 0 && k>=0; --i) {
             if(bucket[i] > 0) {
                 int minus = min(bucket[i], k);
                 bucket[i] -= minus;
