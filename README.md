@@ -20,6 +20,7 @@
 | [0216-combination-sum-iii](https://github.com/gskabdwal/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/gskabdwal/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/gskabdwal/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/gskabdwal/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gskabdwal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/gskabdwal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
@@ -696,6 +697,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gskabdwal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/gskabdwal/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/gskabdwal/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/gskabdwal/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gskabdwal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/gskabdwal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/gskabdwal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
