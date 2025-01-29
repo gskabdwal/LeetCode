@@ -1,10 +1,3 @@
-class Compare{
-    public:
-        bool operator()(vector<int> &b, vector<int> &a){
-            return a[0]+a[2]>b[0]+b[2];
-        }
-};
-
 class Solution {
 public:
     int findCrossingTime(int n, int k, vector<vector<int>>& time) {
