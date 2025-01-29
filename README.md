@@ -23,6 +23,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gskabdwal/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gskabdwal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/gskabdwal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0480-sliding-window-median](https://github.com/gskabdwal/LeetCode/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/gskabdwal/LeetCode/tree/master/0494-target-sum) |
@@ -168,6 +169,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/gskabdwal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/gskabdwal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/gskabdwal/LeetCode/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gskabdwal/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -218,6 +220,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/gskabdwal/LeetCode/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/gskabdwal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1622-max-value-of-equation](https://github.com/gskabdwal/LeetCode/tree/master/1622-max-value-of-equation) |
 | [2478-longest-nice-subarray](https://github.com/gskabdwal/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -703,6 +706,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gskabdwal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/gskabdwal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/gskabdwal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/gskabdwal/LeetCode/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/gskabdwal/LeetCode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/gskabdwal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
