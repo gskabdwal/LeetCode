@@ -51,6 +51,7 @@
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2012-process-tasks-using-servers](https://github.com/gskabdwal/LeetCode/tree/master/2012-process-tasks-using-servers) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/gskabdwal/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2078-maximum-compatibility-score-sum](https://github.com/gskabdwal/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/gskabdwal/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gskabdwal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -170,6 +171,7 @@
 | [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/gskabdwal/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gskabdwal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2543-most-popular-video-creator](https://github.com/gskabdwal/LeetCode/tree/master/2543-most-popular-video-creator) |
 | [2603-reward-top-k-students](https://github.com/gskabdwal/LeetCode/tree/master/2603-reward-top-k-students) |
@@ -693,6 +695,7 @@
 | [1955-seat-reservation-manager](https://github.com/gskabdwal/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/gskabdwal/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2012-process-tasks-using-servers](https://github.com/gskabdwal/LeetCode/tree/master/2012-process-tasks-using-servers) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/gskabdwal/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/gskabdwal/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gskabdwal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gskabdwal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
