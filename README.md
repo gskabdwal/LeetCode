@@ -52,6 +52,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/gskabdwal/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/gskabdwal/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2012-process-tasks-using-servers](https://github.com/gskabdwal/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/gskabdwal/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -264,6 +265,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gskabdwal/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/gskabdwal/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/gskabdwal/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
@@ -425,6 +427,7 @@
 | [1499-maximum-performance-of-a-team](https://github.com/gskabdwal/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/gskabdwal/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1962-single-threaded-cpu](https://github.com/gskabdwal/LeetCode/tree/master/1962-single-threaded-cpu) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/gskabdwal/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gskabdwal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gskabdwal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gskabdwal/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
@@ -717,6 +720,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/gskabdwal/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/gskabdwal/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/gskabdwal/LeetCode/tree/master/1962-single-threaded-cpu) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/gskabdwal/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2012-process-tasks-using-servers](https://github.com/gskabdwal/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/gskabdwal/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/gskabdwal/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -776,6 +780,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/gskabdwal/LeetCode/tree/master/0218-the-skyline-problem) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/gskabdwal/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Quickselect
 |  |
 | ------- |
