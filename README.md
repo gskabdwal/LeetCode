@@ -59,6 +59,7 @@
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gskabdwal/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/gskabdwal/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/gskabdwal/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/gskabdwal/LeetCode/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2478-longest-nice-subarray](https://github.com/gskabdwal/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -233,6 +234,7 @@
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gskabdwal/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/gskabdwal/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gskabdwal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gskabdwal/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/gskabdwal/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -257,6 +259,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gskabdwal/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/gskabdwal/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/gskabdwal/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -420,6 +423,7 @@
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gskabdwal/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/gskabdwal/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/gskabdwal/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/gskabdwal/LeetCode/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2543-most-popular-video-creator](https://github.com/gskabdwal/LeetCode/tree/master/2543-most-popular-video-creator) |
@@ -711,6 +715,7 @@
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/gskabdwal/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/gskabdwal/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/gskabdwal/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/gskabdwal/LeetCode/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2543-most-popular-video-creator](https://github.com/gskabdwal/LeetCode/tree/master/2543-most-popular-video-creator) |
