@@ -79,6 +79,7 @@
 | [2603-reward-top-k-students](https://github.com/gskabdwal/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gskabdwal/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/gskabdwal/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2642-time-to-cross-a-bridge](https://github.com/gskabdwal/LeetCode/tree/master/2642-time-to-cross-a-bridge) |
 | [2681-put-marbles-in-bags](https://github.com/gskabdwal/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/gskabdwal/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -345,6 +346,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2479-meeting-rooms-iii](https://github.com/gskabdwal/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2642-time-to-cross-a-bridge](https://github.com/gskabdwal/LeetCode/tree/master/2642-time-to-cross-a-bridge) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/gskabdwal/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gskabdwal/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -763,6 +765,7 @@
 | [2603-reward-top-k-students](https://github.com/gskabdwal/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gskabdwal/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/gskabdwal/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2642-time-to-cross-a-bridge](https://github.com/gskabdwal/LeetCode/tree/master/2642-time-to-cross-a-bridge) |
 | [2681-put-marbles-in-bags](https://github.com/gskabdwal/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/gskabdwal/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
