@@ -95,6 +95,7 @@
 | [3107-maximum-spending-after-buying-items](https://github.com/gskabdwal/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/gskabdwal/LeetCode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gskabdwal/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gskabdwal/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gskabdwal/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3363-most-frequent-ids](https://github.com/gskabdwal/LeetCode/tree/master/3363-most-frequent-ids) |
@@ -245,6 +246,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gskabdwal/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2543-most-popular-video-creator](https://github.com/gskabdwal/LeetCode/tree/master/2543-most-popular-video-creator) |
 | [2603-reward-top-k-students](https://github.com/gskabdwal/LeetCode/tree/master/2603-reward-top-k-students) |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gskabdwal/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gskabdwal/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gskabdwal/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3376-longest-common-suffix-queries](https://github.com/gskabdwal/LeetCode/tree/master/3376-longest-common-suffix-queries) |
@@ -675,10 +677,12 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gskabdwal/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gskabdwal/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 ## Design
 |  |
 | ------- |
@@ -875,6 +879,7 @@
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/gskabdwal/LeetCode/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gskabdwal/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/gskabdwal/LeetCode/tree/master/3197-maximum-strong-pair-xor-ii) |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gskabdwal/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gskabdwal/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/gskabdwal/LeetCode/tree/master/3376-longest-common-suffix-queries) |
 ## Radix Sort
@@ -889,4 +894,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/gskabdwal/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Rolling Hash
+|  |
+| ------- |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gskabdwal/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 <!---LeetCode Topics End-->
