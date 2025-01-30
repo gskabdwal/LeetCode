@@ -18,6 +18,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/gskabdwal/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gskabdwal/LeetCode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/gskabdwal/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gskabdwal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/gskabdwal/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/gskabdwal/LeetCode/tree/master/0218-the-skyline-problem) |
@@ -250,6 +251,7 @@
 | [0140-word-break-ii](https://github.com/gskabdwal/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/gskabdwal/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gskabdwal/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/gskabdwal/LeetCode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/gskabdwal/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/gskabdwal/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -454,6 +456,7 @@
 | [0090-subsets-ii](https://github.com/gskabdwal/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/gskabdwal/LeetCode/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/gskabdwal/LeetCode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/gskabdwal/LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/gskabdwal/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/gskabdwal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -547,6 +550,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/gskabdwal/LeetCode/tree/master/0037-sudoku-solver) |
+| [0212-word-search-ii](https://github.com/gskabdwal/LeetCode/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gskabdwal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/gskabdwal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gskabdwal/LeetCode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -921,6 +925,7 @@
 | [0140-word-break-ii](https://github.com/gskabdwal/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/gskabdwal/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gskabdwal/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/gskabdwal/LeetCode/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gskabdwal/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0676-implement-magic-dictionary](https://github.com/gskabdwal/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/gskabdwal/LeetCode/tree/master/0677-map-sum-pairs) |
