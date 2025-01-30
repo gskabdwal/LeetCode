@@ -77,6 +77,7 @@
 | [2012-process-tasks-using-servers](https://github.com/gskabdwal/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/gskabdwal/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2078-maximum-compatibility-score-sum](https://github.com/gskabdwal/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/gskabdwal/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/gskabdwal/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gskabdwal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gskabdwal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -229,6 +230,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/gskabdwal/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/gskabdwal/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gskabdwal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/gskabdwal/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2543-most-popular-video-creator](https://github.com/gskabdwal/LeetCode/tree/master/2543-most-popular-video-creator) |
@@ -281,6 +283,7 @@
 | [1433-encrypt-and-decrypt-strings](https://github.com/gskabdwal/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gskabdwal/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/gskabdwal/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gskabdwal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/gskabdwal/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gskabdwal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -737,6 +740,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/gskabdwal/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/gskabdwal/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gskabdwal/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 ## Design
 |  |
@@ -948,6 +952,7 @@
 | [1433-encrypt-and-decrypt-strings](https://github.com/gskabdwal/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/gskabdwal/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/gskabdwal/LeetCode/tree/master/1907-count-pairs-with-xor-in-a-range) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/gskabdwal/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gskabdwal/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/gskabdwal/LeetCode/tree/master/3197-maximum-strong-pair-xor-ii) |
