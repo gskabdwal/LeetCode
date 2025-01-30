@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/gskabdwal/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/gskabdwal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gskabdwal/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/gskabdwal/LeetCode/tree/master/0044-wildcard-matching) |
 | [0208-implement-trie-prefix-tree](https://github.com/gskabdwal/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -845,6 +846,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gskabdwal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/gskabdwal/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gskabdwal/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gskabdwal/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
