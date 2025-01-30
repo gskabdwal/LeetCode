@@ -39,6 +39,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/gskabdwal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 | [1127-last-stone-weight](https://github.com/gskabdwal/LeetCode/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gskabdwal/LeetCode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -236,6 +237,7 @@
 | [0763-special-binary-string](https://github.com/gskabdwal/LeetCode/tree/master/0763-special-binary-string) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/gskabdwal/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 | [1304-longest-happy-string](https://github.com/gskabdwal/LeetCode/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gskabdwal/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -694,6 +696,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/gskabdwal/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0677-map-sum-pairs](https://github.com/gskabdwal/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
+| [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 | [1955-seat-reservation-manager](https://github.com/gskabdwal/LeetCode/tree/master/1955-seat-reservation-manager) |
 ## Linked List
 |  |
@@ -874,6 +877,7 @@
 | [0677-map-sum-pairs](https://github.com/gskabdwal/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
+| [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/gskabdwal/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/gskabdwal/LeetCode/tree/master/1907-count-pairs-with-xor-in-a-range) |
@@ -894,6 +898,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/gskabdwal/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 ## Rolling Hash
 |  |
 | ------- |
