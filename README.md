@@ -36,6 +36,7 @@
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0839-short-encoding-of-words](https://github.com/gskabdwal/LeetCode/tree/master/0839-short-encoding-of-words) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/gskabdwal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -203,6 +204,7 @@
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0839-short-encoding-of-words](https://github.com/gskabdwal/LeetCode/tree/master/0839-short-encoding-of-words) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -247,6 +249,7 @@
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/gskabdwal/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0839-short-encoding-of-words](https://github.com/gskabdwal/LeetCode/tree/master/0839-short-encoding-of-words) |
 | [1080-camelcase-matching](https://github.com/gskabdwal/LeetCode/tree/master/1080-camelcase-matching) |
 | [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 | [1304-longest-happy-string](https://github.com/gskabdwal/LeetCode/tree/master/1304-longest-happy-string) |
@@ -897,6 +900,7 @@
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0839-short-encoding-of-words](https://github.com/gskabdwal/LeetCode/tree/master/0839-short-encoding-of-words) |
 | [1080-camelcase-matching](https://github.com/gskabdwal/LeetCode/tree/master/1080-camelcase-matching) |
 | [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
