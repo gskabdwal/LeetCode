@@ -50,6 +50,7 @@
 | [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 | [1127-last-stone-weight](https://github.com/gskabdwal/LeetCode/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gskabdwal/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gskabdwal/LeetCode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/gskabdwal/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
@@ -275,6 +276,7 @@
 | [1080-camelcase-matching](https://github.com/gskabdwal/LeetCode/tree/master/1080-camelcase-matching) |
 | [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 | [1304-longest-happy-string](https://github.com/gskabdwal/LeetCode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gskabdwal/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/gskabdwal/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gskabdwal/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -663,6 +665,7 @@
 | [1035-cousins-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gskabdwal/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gskabdwal/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gskabdwal/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -940,6 +943,7 @@
 | [0839-short-encoding-of-words](https://github.com/gskabdwal/LeetCode/tree/master/0839-short-encoding-of-words) |
 | [1080-camelcase-matching](https://github.com/gskabdwal/LeetCode/tree/master/1080-camelcase-matching) |
 | [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gskabdwal/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/gskabdwal/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/gskabdwal/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
