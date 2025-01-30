@@ -1,45 +1,55 @@
 class Solution {
-public:
-    struct bitTree {
-        bitTree* p[2] = {};
-        void insert(int num, int bit) {
-            if (bit > 0) {
-                auto res = (num & bit) > 0;
-                if (p[res] == nullptr)
-                    p[res] = new bitTree();
-                p[res]->insert(num, bit / 2);
+    
+    class TreeNode {
+    public:
+        TreeNode* next[2];
+        TreeNode () {next[0] = nullptr; next[1] = nullptr;};
+    };
+    TreeNode* buildTree(vector<int>& nums) {
+        TreeNode* root = new TreeNode(), *cur;
+        int n = nums.size();
+        for (int i = 0; i < n; i++) {
+            int num = nums[i];
+            cur = root;
+            for (int j = 31; j >= 0; j--) {
+                int index = ((num >> j) & 1);
+                if (cur->next[index] == nullptr)
+                    cur->next[index] = new TreeNode();
+                cur = cur->next[index];
             }
         }
-        int getMax(int xi, int mi, int bit, int bitSum) {
-            if (bitSum > mi)
-                return INT_MIN;            
-            if (bit == 0)
-                return 0;
-            if (p[0] == nullptr)
-                return ((xi & bit) ? 0 : bit) + p[1]->getMax(xi, mi, bit / 2, bitSum + bit);
-            if (p[1] == nullptr)
-                return ((xi & bit) ? bit : 0) + p[0]->getMax(xi, mi, bit / 2, bitSum);
-            int pos = (xi & bit) == 0; // preferred path.
-            int res = bit + p[pos]->getMax(xi, mi, bit / 2, bitSum + pos * bit);
-            if (res < 0) // preferred choice numbers are too large.
-                res = p[!pos]->getMax(xi, mi, bit / 2, bitSum + !pos * bit);
-            return res;
-        }
-    };
+        return root;
+    }
     
-    vector<int> maximizeXor(vector<int>& nums, vector<vector<int>>& qs) {
-        int max_mi = 0;
-        for (auto &q : qs)
-            max_mi = max({max_mi, q[0], q[1]});
-        int bits = 1 << (int)log2(max_mi);
-        bitTree root;
-        for (auto n : nums)
-            root.insert(n, bits);
-        vector<int> res;
-        for (auto &q : qs) {
-            auto max = root.getMax(q[0], q[1], bits, 0);
-            res.push_back(max < 0 ? -1 : max);
+    int dfs(TreeNode* root, int x, int limit, int value, int height) {
+        if (value > limit) return -1;
+        
+        if (height == -1) return x^value;
+        
+        int bit_x = (x >> height) & 1;
+        
+        if (root->next[1-bit_x] != nullptr) {
+            int v = dfs(root->next[1-bit_x], x, limit, (value | ((1-bit_x) << height)), height-1);
+            if (v >= 0) return v;
         }
-        return res;
+        if (root->next[bit_x] != nullptr) {
+            int v = dfs(root->next[bit_x], x, limit, (value | (bit_x << height)), height-1);
+            if (v >= 0) return v;
+        }
+        
+        return -1;
+    }
+    
+public:
+    vector<int> maximizeXor(vector<int>& nums, vector<vector<int>>& queries) {
+        vector<int> ans;
+        TreeNode* root = buildTree(nums);
+        
+        for (const vector<int>& query : queries) {            
+            int tmp = dfs(root, query[0], query[1], 0, 31);
+            ans.push_back(tmp);
+        }
+        
+        return ans;
     }
 };
