@@ -35,6 +35,7 @@
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/gskabdwal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -115,6 +116,7 @@
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/gskabdwal/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -199,6 +201,7 @@
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
+| [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -242,6 +245,7 @@
 | [0763-special-binary-string](https://github.com/gskabdwal/LeetCode/tree/master/0763-special-binary-string) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/gskabdwal/LeetCode/tree/master/0800-letter-case-permutation) |
+| [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 | [1304-longest-happy-string](https://github.com/gskabdwal/LeetCode/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -312,6 +316,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gskabdwal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/gskabdwal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gskabdwal/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/gskabdwal/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -472,6 +477,7 @@
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1014-k-closest-points-to-origin](https://github.com/gskabdwal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -886,6 +892,7 @@
 | [0677-map-sum-pairs](https://github.com/gskabdwal/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
+| [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/gskabdwal/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
