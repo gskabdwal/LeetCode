@@ -33,6 +33,7 @@
 | [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0658-find-k-closest-elements](https://github.com/gskabdwal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -190,6 +191,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gskabdwal/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0677-map-sum-pairs](https://github.com/gskabdwal/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -228,6 +230,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/gskabdwal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0677-map-sum-pairs](https://github.com/gskabdwal/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0763-special-binary-string](https://github.com/gskabdwal/LeetCode/tree/master/0763-special-binary-string) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/gskabdwal/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -684,6 +687,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/gskabdwal/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0677-map-sum-pairs](https://github.com/gskabdwal/LeetCode/tree/master/0677-map-sum-pairs) |
+| [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [1955-seat-reservation-manager](https://github.com/gskabdwal/LeetCode/tree/master/1955-seat-reservation-manager) |
 ## Linked List
 |  |
@@ -863,6 +867,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gskabdwal/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0677-map-sum-pairs](https://github.com/gskabdwal/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/gskabdwal/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/gskabdwal/LeetCode/tree/master/1907-count-pairs-with-xor-in-a-range) |
