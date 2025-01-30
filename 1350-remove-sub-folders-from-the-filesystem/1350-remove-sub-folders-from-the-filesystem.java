@@ -1,5 +1,5 @@
 class Solution {
-        class Trie {
+    class Trie {
         Trie[] sub = new Trie[27];
         int index = -1;
     }
