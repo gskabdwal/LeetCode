@@ -33,6 +33,7 @@
 | [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0658-find-k-closest-elements](https://github.com/gskabdwal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/gskabdwal/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -202,6 +203,7 @@
 | [0676-implement-magic-dictionary](https://github.com/gskabdwal/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/gskabdwal/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/gskabdwal/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -246,6 +248,7 @@
 | [0676-implement-magic-dictionary](https://github.com/gskabdwal/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/gskabdwal/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/gskabdwal/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0763-special-binary-string](https://github.com/gskabdwal/LeetCode/tree/master/0763-special-binary-string) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
@@ -483,6 +486,7 @@
 | [0506-relative-ranks](https://github.com/gskabdwal/LeetCode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/gskabdwal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/gskabdwal/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -902,6 +906,7 @@
 | [0676-implement-magic-dictionary](https://github.com/gskabdwal/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/gskabdwal/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/gskabdwal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/gskabdwal/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0839-short-encoding-of-words](https://github.com/gskabdwal/LeetCode/tree/master/0839-short-encoding-of-words) |
