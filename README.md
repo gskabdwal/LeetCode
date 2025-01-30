@@ -92,6 +92,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
+| [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3107-maximum-spending-after-buying-items](https://github.com/gskabdwal/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/gskabdwal/LeetCode/tree/master/3197-maximum-strong-pair-xor-ii) |
@@ -120,6 +121,7 @@
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2078-maximum-compatibility-score-sum](https://github.com/gskabdwal/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [2603-reward-top-k-students](https://github.com/gskabdwal/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/gskabdwal/LeetCode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gskabdwal/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -248,6 +251,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gskabdwal/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2543-most-popular-video-creator](https://github.com/gskabdwal/LeetCode/tree/master/2543-most-popular-video-creator) |
 | [2603-reward-top-k-students](https://github.com/gskabdwal/LeetCode/tree/master/2603-reward-top-k-students) |
+| [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gskabdwal/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gskabdwal/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gskabdwal/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -882,6 +886,7 @@
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/gskabdwal/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/gskabdwal/LeetCode/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gskabdwal/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/gskabdwal/LeetCode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gskabdwal/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gskabdwal/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
