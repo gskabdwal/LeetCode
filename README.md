@@ -110,6 +110,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/gskabdwal/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/gskabdwal/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
 | [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/gskabdwal/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -362,6 +363,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gskabdwal/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/gskabdwal/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/gskabdwal/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/gskabdwal/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/gskabdwal/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
@@ -578,6 +580,7 @@
 | [2681-put-marbles-in-bags](https://github.com/gskabdwal/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gskabdwal/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/gskabdwal/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3107-maximum-spending-after-buying-items](https://github.com/gskabdwal/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gskabdwal/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
