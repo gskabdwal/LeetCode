@@ -289,6 +289,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/gskabdwal/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/gskabdwal/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gskabdwal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/gskabdwal/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/gskabdwal/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gskabdwal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gskabdwal/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -334,6 +335,7 @@
 | [2094-remove-stones-to-minimize-the-total](https://github.com/gskabdwal/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gskabdwal/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/gskabdwal/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/gskabdwal/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gskabdwal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
