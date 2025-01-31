@@ -69,6 +69,7 @@
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/gskabdwal/LeetCode/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [1917-maximum-average-pass-ratio](https://github.com/gskabdwal/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/gskabdwal/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/gskabdwal/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/gskabdwal/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -328,6 +329,7 @@
 | [1794-minimize-deviation-in-array](https://github.com/gskabdwal/LeetCode/tree/master/1794-minimize-deviation-in-array) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/gskabdwal/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1917-maximum-average-pass-ratio](https://github.com/gskabdwal/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/gskabdwal/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/gskabdwal/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/gskabdwal/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gskabdwal/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
