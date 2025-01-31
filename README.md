@@ -58,6 +58,7 @@
 | [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 | [1127-last-stone-weight](https://github.com/gskabdwal/LeetCode/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
+| [1255-reverse-subarray-to-maximize-array-value](https://github.com/gskabdwal/LeetCode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gskabdwal/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gskabdwal/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gskabdwal/LeetCode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -218,6 +219,7 @@
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/gskabdwal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1255-reverse-subarray-to-maximize-array-value](https://github.com/gskabdwal/LeetCode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gskabdwal/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/gskabdwal/LeetCode/tree/master/1448-maximum-69-number) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -358,6 +360,7 @@
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0901-advantage-shuffle](https://github.com/gskabdwal/LeetCode/tree/master/0901-advantage-shuffle) |
 | [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
+| [1255-reverse-subarray-to-maximize-array-value](https://github.com/gskabdwal/LeetCode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1285-balance-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/gskabdwal/LeetCode/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gskabdwal/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
