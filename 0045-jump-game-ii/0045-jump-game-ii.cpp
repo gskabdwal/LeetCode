@@ -4,7 +4,7 @@ public:
         
         int cnt =0, curFarthest = 0, curEnd = 0;
 
-        for(int i=0;i<nums.size()-1;i++){
+        for(int i=0;i<=curFarthest&&i<nums.size()-1;i++){
 
             curFarthest = max(curFarthest,i+nums[i]);
 
