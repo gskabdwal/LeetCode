@@ -104,6 +104,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
 | [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/gskabdwal/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3107-maximum-spending-after-buying-items](https://github.com/gskabdwal/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/gskabdwal/LeetCode/tree/master/3197-maximum-strong-pair-xor-ii) |
@@ -336,6 +337,7 @@
 | [2636-maximum-subsequence-score](https://github.com/gskabdwal/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/gskabdwal/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/gskabdwal/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3107-maximum-spending-after-buying-items](https://github.com/gskabdwal/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
