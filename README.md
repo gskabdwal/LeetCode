@@ -91,6 +91,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gskabdwal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gskabdwal/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/gskabdwal/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/gskabdwal/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/gskabdwal/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -362,6 +363,7 @@
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gskabdwal/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/gskabdwal/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/gskabdwal/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/gskabdwal/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gskabdwal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -576,6 +578,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gskabdwal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gskabdwal/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/gskabdwal/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/gskabdwal/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/gskabdwal/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
