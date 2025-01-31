@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/gskabdwal/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gskabdwal/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/gskabdwal/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/gskabdwal/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/gskabdwal/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gskabdwal/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -129,6 +130,7 @@
 | [0010-regular-expression-matching](https://github.com/gskabdwal/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/gskabdwal/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gskabdwal/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/gskabdwal/LeetCode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/gskabdwal/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/gskabdwal/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gskabdwal/LeetCode/tree/master/0140-word-break-ii) |
@@ -322,6 +324,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/gskabdwal/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gskabdwal/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/gskabdwal/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/gskabdwal/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/gskabdwal/LeetCode/tree/master/0502-ipo) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
