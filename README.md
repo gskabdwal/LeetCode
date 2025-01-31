@@ -104,6 +104,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gskabdwal/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gskabdwal/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2543-most-popular-video-creator](https://github.com/gskabdwal/LeetCode/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -378,6 +379,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/gskabdwal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gskabdwal/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gskabdwal/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/gskabdwal/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gskabdwal/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/gskabdwal/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -601,6 +603,7 @@
 | [2462-find-the-k-sum-of-an-array](https://github.com/gskabdwal/LeetCode/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/gskabdwal/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gskabdwal/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gskabdwal/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2543-most-popular-video-creator](https://github.com/gskabdwal/LeetCode/tree/master/2543-most-popular-video-creator) |
 | [2603-reward-top-k-students](https://github.com/gskabdwal/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2636-maximum-subsequence-score](https://github.com/gskabdwal/LeetCode/tree/master/2636-maximum-subsequence-score) |
