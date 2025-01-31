@@ -191,6 +191,7 @@
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/gskabdwal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1448-maximum-69-number](https://github.com/gskabdwal/LeetCode/tree/master/1448-maximum-69-number) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -317,6 +318,7 @@
 | [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/gskabdwal/LeetCode/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/gskabdwal/LeetCode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gskabdwal/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/gskabdwal/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
