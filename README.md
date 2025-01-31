@@ -103,6 +103,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2603-reward-top-k-students](https://github.com/gskabdwal/LeetCode/tree/master/2603-reward-top-k-students) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/gskabdwal/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gskabdwal/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/gskabdwal/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2642-time-to-cross-a-bridge](https://github.com/gskabdwal/LeetCode/tree/master/2642-time-to-cross-a-bridge) |
@@ -212,6 +213,7 @@
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2050-count-good-numbers](https://github.com/gskabdwal/LeetCode/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gskabdwal/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/gskabdwal/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Hash Table
 |  |
@@ -360,6 +362,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gskabdwal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/gskabdwal/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gskabdwal/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/gskabdwal/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/gskabdwal/LeetCode/tree/master/2681-put-marbles-in-bags) |
