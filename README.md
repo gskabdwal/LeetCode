@@ -31,6 +31,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gskabdwal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/gskabdwal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gskabdwal/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/gskabdwal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gskabdwal/LeetCode/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/gskabdwal/LeetCode/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
@@ -145,6 +146,7 @@
 | [0140-word-break-ii](https://github.com/gskabdwal/LeetCode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0376-wiggle-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/gskabdwal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/gskabdwal/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
@@ -341,6 +343,7 @@
 | [0045-jump-game-ii](https://github.com/gskabdwal/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gskabdwal/LeetCode/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/gskabdwal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gskabdwal/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/gskabdwal/LeetCode/tree/master/0502-ipo) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
@@ -555,6 +558,7 @@
 | [0295-find-median-from-data-stream](https://github.com/gskabdwal/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gskabdwal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gskabdwal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/gskabdwal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/gskabdwal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gskabdwal/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/gskabdwal/LeetCode/tree/master/0502-ipo) |
