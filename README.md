@@ -99,6 +99,7 @@
 | [2462-find-the-k-sum-of-an-array](https://github.com/gskabdwal/LeetCode/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2478-longest-nice-subarray](https://github.com/gskabdwal/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/gskabdwal/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gskabdwal/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gskabdwal/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
@@ -372,6 +373,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gskabdwal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gskabdwal/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/gskabdwal/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gskabdwal/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -390,6 +392,7 @@
 |  |
 | ------- |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/gskabdwal/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gskabdwal/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
 ## Binary Search
@@ -593,6 +596,7 @@
 | [2422-query-kth-smallest-trimmed-number](https://github.com/gskabdwal/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/gskabdwal/LeetCode/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/gskabdwal/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gskabdwal/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2543-most-popular-video-creator](https://github.com/gskabdwal/LeetCode/tree/master/2543-most-popular-video-creator) |
 | [2603-reward-top-k-students](https://github.com/gskabdwal/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2636-maximum-subsequence-score](https://github.com/gskabdwal/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -858,6 +862,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0901-advantage-shuffle](https://github.com/gskabdwal/LeetCode/tree/master/0901-advantage-shuffle) |
 | [1080-camelcase-matching](https://github.com/gskabdwal/LeetCode/tree/master/1080-camelcase-matching) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gskabdwal/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Union Find
 |  |
@@ -921,6 +926,7 @@
 | [2422-query-kth-smallest-trimmed-number](https://github.com/gskabdwal/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/gskabdwal/LeetCode/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/gskabdwal/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gskabdwal/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2543-most-popular-video-creator](https://github.com/gskabdwal/LeetCode/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2603-reward-top-k-students](https://github.com/gskabdwal/LeetCode/tree/master/2603-reward-top-k-students) |
