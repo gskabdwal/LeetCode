@@ -137,6 +137,7 @@
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/gskabdwal/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3482-construct-string-with-minimum-cost](https://github.com/gskabdwal/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/gskabdwal/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -393,6 +394,7 @@
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gskabdwal/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gskabdwal/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/gskabdwal/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -615,6 +617,7 @@
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3107-maximum-spending-after-buying-items](https://github.com/gskabdwal/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gskabdwal/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/gskabdwal/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Combinatorics
 |  |
 | ------- |
