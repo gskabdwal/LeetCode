@@ -117,6 +117,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/gskabdwal/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
+| [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/gskabdwal/LeetCode/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [3107-maximum-spending-after-buying-items](https://github.com/gskabdwal/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/gskabdwal/LeetCode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
@@ -259,6 +260,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
+| [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/gskabdwal/LeetCode/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/gskabdwal/LeetCode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gskabdwal/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gskabdwal/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
