@@ -100,6 +100,7 @@
 | [2479-meeting-rooms-iii](https://github.com/gskabdwal/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gskabdwal/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gskabdwal/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2543-most-popular-video-creator](https://github.com/gskabdwal/LeetCode/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -153,6 +154,7 @@
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2078-maximum-compatibility-score-sum](https://github.com/gskabdwal/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3482-construct-string-with-minimum-cost](https://github.com/gskabdwal/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
@@ -367,6 +369,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/gskabdwal/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gskabdwal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/gskabdwal/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gskabdwal/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/gskabdwal/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -384,6 +387,7 @@
 |  |
 | ------- |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/gskabdwal/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
 ## Binary Search
 |  |
@@ -398,6 +402,7 @@
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/gskabdwal/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gskabdwal/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/gskabdwal/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/gskabdwal/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
