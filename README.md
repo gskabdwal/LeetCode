@@ -24,6 +24,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gskabdwal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/gskabdwal/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/gskabdwal/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0330-patching-array](https://github.com/gskabdwal/LeetCode/tree/master/0330-patching-array) |
 | [0336-palindrome-pairs](https://github.com/gskabdwal/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/gskabdwal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gskabdwal/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -347,6 +348,7 @@
 | [0044-wildcard-matching](https://github.com/gskabdwal/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gskabdwal/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gskabdwal/LeetCode/tree/master/0055-jump-game) |
+| [0330-patching-array](https://github.com/gskabdwal/LeetCode/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/gskabdwal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gskabdwal/LeetCode/tree/master/0455-assign-cookies) |
