@@ -353,6 +353,7 @@
 | [2603-reward-top-k-students](https://github.com/gskabdwal/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/gskabdwal/LeetCode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2877-shortest-string-that-contains-three-strings](https://github.com/gskabdwal/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gskabdwal/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gskabdwal/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gskabdwal/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -437,6 +438,7 @@
 | [2725-mice-and-cheese](https://github.com/gskabdwal/LeetCode/tree/master/2725-mice-and-cheese) |
 | [2730-maximum-or](https://github.com/gskabdwal/LeetCode/tree/master/2730-maximum-or) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/gskabdwal/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2877-shortest-string-that-contains-three-strings](https://github.com/gskabdwal/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gskabdwal/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3107-maximum-spending-after-buying-items](https://github.com/gskabdwal/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
@@ -1121,5 +1123,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [2877-shortest-string-that-contains-three-strings](https://github.com/gskabdwal/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [3402-minimum-cost-to-equalize-array](https://github.com/gskabdwal/LeetCode/tree/master/3402-minimum-cost-to-equalize-array) |
 <!---LeetCode Topics End-->
