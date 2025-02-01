@@ -52,6 +52,7 @@
 | [0839-short-encoding-of-words](https://github.com/gskabdwal/LeetCode/tree/master/0839-short-encoding-of-words) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0901-advantage-shuffle](https://github.com/gskabdwal/LeetCode/tree/master/0901-advantage-shuffle) |
+| [0917-boats-to-save-people](https://github.com/gskabdwal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0985-bag-of-tokens](https://github.com/gskabdwal/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/gskabdwal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -372,6 +373,7 @@
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0901-advantage-shuffle](https://github.com/gskabdwal/LeetCode/tree/master/0901-advantage-shuffle) |
+| [0917-boats-to-save-people](https://github.com/gskabdwal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/gskabdwal/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/gskabdwal/LeetCode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
@@ -607,6 +609,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0901-advantage-shuffle](https://github.com/gskabdwal/LeetCode/tree/master/0901-advantage-shuffle) |
+| [0917-boats-to-save-people](https://github.com/gskabdwal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/gskabdwal/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/gskabdwal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -898,6 +901,7 @@
 | [0658-find-k-closest-elements](https://github.com/gskabdwal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0901-advantage-shuffle](https://github.com/gskabdwal/LeetCode/tree/master/0901-advantage-shuffle) |
+| [0917-boats-to-save-people](https://github.com/gskabdwal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/gskabdwal/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1080-camelcase-matching](https://github.com/gskabdwal/LeetCode/tree/master/1080-camelcase-matching) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gskabdwal/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
