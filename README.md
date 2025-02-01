@@ -51,6 +51,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0839-short-encoding-of-words](https://github.com/gskabdwal/LeetCode/tree/master/0839-short-encoding-of-words) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0890-lemonade-change](https://github.com/gskabdwal/LeetCode/tree/master/0890-lemonade-change) |
 | [0901-advantage-shuffle](https://github.com/gskabdwal/LeetCode/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/gskabdwal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -372,6 +373,7 @@
 | [0621-task-scheduler](https://github.com/gskabdwal/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/gskabdwal/LeetCode/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0890-lemonade-change](https://github.com/gskabdwal/LeetCode/tree/master/0890-lemonade-change) |
 | [0901-advantage-shuffle](https://github.com/gskabdwal/LeetCode/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/gskabdwal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/gskabdwal/LeetCode/tree/master/0985-bag-of-tokens) |
