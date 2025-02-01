@@ -322,6 +322,7 @@
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/gskabdwal/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gskabdwal/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/gskabdwal/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/gskabdwal/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/gskabdwal/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -377,6 +378,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gskabdwal/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1487-cinema-seat-allocation](https://github.com/gskabdwal/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [1499-maximum-performance-of-a-team](https://github.com/gskabdwal/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/gskabdwal/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1762-furthest-building-you-can-reach](https://github.com/gskabdwal/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1794-minimize-deviation-in-array](https://github.com/gskabdwal/LeetCode/tree/master/1794-minimize-deviation-in-array) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/gskabdwal/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
