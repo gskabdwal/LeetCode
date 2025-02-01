@@ -232,6 +232,7 @@
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/gskabdwal/LeetCode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gskabdwal/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/gskabdwal/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/gskabdwal/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1448-maximum-69-number](https://github.com/gskabdwal/LeetCode/tree/master/1448-maximum-69-number) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
