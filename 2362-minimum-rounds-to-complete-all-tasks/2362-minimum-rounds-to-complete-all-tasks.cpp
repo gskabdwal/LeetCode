@@ -12,9 +12,7 @@ public:
         for(auto it: mpp){
             int x = it.second;
             if(x==1) return -1;
-            ans += x/3;
-            x %= 3;
-            ans += x==1?1:x/2;
+            ans += (x+2)/3;
         }
 
         return ans;
