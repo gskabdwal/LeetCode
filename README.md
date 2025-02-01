@@ -31,6 +31,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gskabdwal/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gskabdwal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/gskabdwal/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/gskabdwal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gskabdwal/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/gskabdwal/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -481,6 +482,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/gskabdwal/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0406-queue-reconstruction-by-height](https://github.com/gskabdwal/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/gskabdwal/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Brainteaser
@@ -627,6 +629,7 @@
 | [0295-find-median-from-data-stream](https://github.com/gskabdwal/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gskabdwal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gskabdwal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/gskabdwal/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/gskabdwal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/gskabdwal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gskabdwal/LeetCode/tree/master/0455-assign-cookies) |
@@ -1055,6 +1058,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/gskabdwal/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0406-queue-reconstruction-by-height](https://github.com/gskabdwal/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 ## Line Sweep
 |  |
 | ------- |
