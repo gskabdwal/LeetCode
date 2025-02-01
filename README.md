@@ -336,6 +336,7 @@
 | [1433-encrypt-and-decrypt-strings](https://github.com/gskabdwal/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/gskabdwal/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gskabdwal/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/gskabdwal/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/gskabdwal/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/gskabdwal/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -403,6 +404,7 @@
 | [1487-cinema-seat-allocation](https://github.com/gskabdwal/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [1499-maximum-performance-of-a-team](https://github.com/gskabdwal/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [1502-construct-k-palindrome-strings](https://github.com/gskabdwal/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/gskabdwal/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/gskabdwal/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1762-furthest-building-you-can-reach](https://github.com/gskabdwal/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1794-minimize-deviation-in-array](https://github.com/gskabdwal/LeetCode/tree/master/1794-minimize-deviation-in-array) |
@@ -638,6 +640,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gskabdwal/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/gskabdwal/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/gskabdwal/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/gskabdwal/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1962-single-threaded-cpu](https://github.com/gskabdwal/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gskabdwal/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
