@@ -223,6 +223,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/gskabdwal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/gskabdwal/LeetCode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gskabdwal/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/gskabdwal/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1448-maximum-69-number](https://github.com/gskabdwal/LeetCode/tree/master/1448-maximum-69-number) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gskabdwal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -317,6 +318,7 @@
 | [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
 | [1304-longest-happy-string](https://github.com/gskabdwal/LeetCode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gskabdwal/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/gskabdwal/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/gskabdwal/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gskabdwal/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -369,6 +371,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/gskabdwal/LeetCode/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gskabdwal/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/gskabdwal/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1448-maximum-69-number](https://github.com/gskabdwal/LeetCode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/gskabdwal/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gskabdwal/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
