@@ -163,6 +163,7 @@
 | [3402-minimum-cost-to-equalize-array](https://github.com/gskabdwal/LeetCode/tree/master/3402-minimum-cost-to-equalize-array) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gskabdwal/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/gskabdwal/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3482-construct-string-with-minimum-cost](https://github.com/gskabdwal/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/gskabdwal/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -210,6 +211,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gskabdwal/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gskabdwal/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3482-construct-string-with-minimum-cost](https://github.com/gskabdwal/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 ## Bit Manipulation
 |  |
@@ -339,6 +341,7 @@
 | [3363-most-frequent-ids](https://github.com/gskabdwal/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gskabdwal/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gskabdwal/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 ## String
 |  |
 | ------- |
