@@ -75,6 +75,7 @@
 | [1184-car-pooling](https://github.com/gskabdwal/LeetCode/tree/master/1184-car-pooling) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/gskabdwal/LeetCode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gskabdwal/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/gskabdwal/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gskabdwal/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gskabdwal/LeetCode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1397-search-suggestions-system](https://github.com/gskabdwal/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -188,6 +189,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/gskabdwal/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/gskabdwal/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/gskabdwal/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -296,6 +298,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/gskabdwal/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/gskabdwal/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gskabdwal/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/gskabdwal/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
