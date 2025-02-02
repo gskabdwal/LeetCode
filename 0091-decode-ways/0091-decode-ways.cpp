@@ -26,13 +26,29 @@ class Solution {
 public:
     int numDecodings(string s) {
         
-        vector<int> dp(s.size(),-1);
+        int n = s.size();
+        vector<int> dp(n+1,0);
         unordered_set<string> hs;
         for(int i=1; i<=26; i++){
             hs.insert(to_string(i));
         }
-        
-        return solve(s,0,hs,dp,0);
+
+        dp[n] = 1;
+
+        for(int i=n-1; i>=0; i--){
+
+            for(int j= 1; j<=2; j++){
+                if(i+j<=s.size()){
+                    string sub = s.substr(i,j);
+                    if(hs.find(sub)!=hs.end()){
+                        
+                        dp[i] += dp[i+j];
+                    }
+                }
+            }
+        }
+
+        return dp[0];
 
     }
 };
