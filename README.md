@@ -192,6 +192,7 @@
 | [0494-target-sum](https://github.com/gskabdwal/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/gskabdwal/LeetCode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/gskabdwal/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0552-student-attendance-record-ii](https://github.com/gskabdwal/LeetCode/tree/master/0552-student-attendance-record-ii) |
 | [0740-delete-and-earn](https://github.com/gskabdwal/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/gskabdwal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
