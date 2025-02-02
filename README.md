@@ -155,6 +155,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gskabdwal/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3402-minimum-cost-to-equalize-array](https://github.com/gskabdwal/LeetCode/tree/master/3402-minimum-cost-to-equalize-array) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/gskabdwal/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3482-construct-string-with-minimum-cost](https://github.com/gskabdwal/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/gskabdwal/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -192,6 +193,7 @@
 | [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3482-construct-string-with-minimum-cost](https://github.com/gskabdwal/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 ## Bit Manipulation
 |  |
@@ -318,6 +320,7 @@
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gskabdwal/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/gskabdwal/LeetCode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3363-most-frequent-ids](https://github.com/gskabdwal/LeetCode/tree/master/3363-most-frequent-ids) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gskabdwal/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String
 |  |
@@ -498,6 +501,7 @@
 | [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gskabdwal/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gskabdwal/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/gskabdwal/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Segment Tree
 |  |
@@ -709,6 +713,7 @@
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3107-maximum-spending-after-buying-items](https://github.com/gskabdwal/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gskabdwal/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/gskabdwal/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Combinatorics
 |  |
@@ -971,6 +976,7 @@
 | [1880-largest-merge-of-two-strings](https://github.com/gskabdwal/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gskabdwal/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Union Find
 |  |
 | ------- |
@@ -1071,6 +1077,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/gskabdwal/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gskabdwal/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gskabdwal/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Ordered Set
 |  |
 | ------- |
