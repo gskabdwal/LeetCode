@@ -191,6 +191,7 @@
 | [0740-delete-and-earn](https://github.com/gskabdwal/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/gskabdwal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0972-knight-dialer](https://github.com/gskabdwal/LeetCode/tree/master/0972-knight-dialer) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/gskabdwal/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/gskabdwal/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
