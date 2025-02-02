@@ -149,6 +149,7 @@
 | [3107-maximum-spending-after-buying-items](https://github.com/gskabdwal/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/gskabdwal/LeetCode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/gskabdwal/LeetCode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gskabdwal/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gskabdwal/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gskabdwal/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gskabdwal/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -199,6 +200,7 @@
 | [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gskabdwal/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3482-construct-string-with-minimum-cost](https://github.com/gskabdwal/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 ## Bit Manipulation
@@ -720,6 +722,7 @@
 | [2725-mice-and-cheese](https://github.com/gskabdwal/LeetCode/tree/master/2725-mice-and-cheese) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3107-maximum-spending-after-buying-items](https://github.com/gskabdwal/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gskabdwal/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gskabdwal/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/gskabdwal/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
