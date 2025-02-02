@@ -165,6 +165,7 @@
 | [0139-word-break](https://github.com/gskabdwal/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gskabdwal/LeetCode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/gskabdwal/LeetCode/tree/master/0279-perfect-squares) |
 | [0376-wiggle-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/gskabdwal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/gskabdwal/LeetCode/tree/master/0486-predict-the-winner) |
@@ -229,6 +230,7 @@
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/gskabdwal/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/gskabdwal/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/gskabdwal/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gskabdwal/LeetCode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/gskabdwal/LeetCode/tree/master/0372-super-pow) |
@@ -615,6 +617,7 @@
 | [0112-path-sum](https://github.com/gskabdwal/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gskabdwal/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/gskabdwal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/gskabdwal/LeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/gskabdwal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/gskabdwal/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
