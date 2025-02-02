@@ -69,6 +69,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gskabdwal/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1080-camelcase-matching](https://github.com/gskabdwal/LeetCode/tree/master/1080-camelcase-matching) |
 | [1097-stream-of-characters](https://github.com/gskabdwal/LeetCode/tree/master/1097-stream-of-characters) |
+| [1121-partition-array-for-maximum-sum](https://github.com/gskabdwal/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/gskabdwal/LeetCode/tree/master/1127-last-stone-weight) |
 | [1139-previous-permutation-with-one-swap](https://github.com/gskabdwal/LeetCode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/gskabdwal/LeetCode/tree/master/1140-distant-barcodes) |
@@ -189,6 +190,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/gskabdwal/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1121-partition-array-for-maximum-sum](https://github.com/gskabdwal/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/gskabdwal/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/gskabdwal/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
