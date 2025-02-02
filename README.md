@@ -159,6 +159,7 @@
 | [0044-wildcard-matching](https://github.com/gskabdwal/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gskabdwal/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gskabdwal/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/gskabdwal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/gskabdwal/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/gskabdwal/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gskabdwal/LeetCode/tree/master/0140-word-break-ii) |
@@ -220,6 +221,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/gskabdwal/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/gskabdwal/LeetCode/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/gskabdwal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/gskabdwal/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/gskabdwal/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gskabdwal/LeetCode/tree/master/0231-power-of-two) |
@@ -513,6 +515,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gskabdwal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/gskabdwal/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gskabdwal/LeetCode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gskabdwal/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
