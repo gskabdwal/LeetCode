@@ -61,6 +61,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/gskabdwal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0831-largest-sum-of-averages](https://github.com/gskabdwal/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0839-short-encoding-of-words](https://github.com/gskabdwal/LeetCode/tree/master/0839-short-encoding-of-words) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/gskabdwal/LeetCode/tree/master/0890-lemonade-change) |
@@ -200,6 +201,7 @@
 | [0740-delete-and-earn](https://github.com/gskabdwal/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/gskabdwal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0831-largest-sum-of-averages](https://github.com/gskabdwal/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0972-knight-dialer](https://github.com/gskabdwal/LeetCode/tree/master/0972-knight-dialer) |
 | [1013-fibonacci-number](https://github.com/gskabdwal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/gskabdwal/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -504,6 +506,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0831-largest-sum-of-averages](https://github.com/gskabdwal/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [1184-car-pooling](https://github.com/gskabdwal/LeetCode/tree/master/1184-car-pooling) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/gskabdwal/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gskabdwal/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
