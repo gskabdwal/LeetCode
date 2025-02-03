@@ -217,6 +217,7 @@
 | [2530-minimize-maximum-of-array](https://github.com/gskabdwal/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/gskabdwal/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/gskabdwal/LeetCode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gskabdwal/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gskabdwal/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
@@ -289,6 +290,7 @@
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/gskabdwal/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gskabdwal/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/gskabdwal/LeetCode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -754,6 +756,7 @@
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gskabdwal/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/gskabdwal/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gskabdwal/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/gskabdwal/LeetCode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 ## Matrix
 |  |
 | ------- |
