@@ -59,6 +59,7 @@
 | [0740-delete-and-earn](https://github.com/gskabdwal/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-prefix-and-suffix-search](https://github.com/gskabdwal/LeetCode/tree/master/0746-prefix-and-suffix-search) |
 | [0747-min-cost-climbing-stairs](https://github.com/gskabdwal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/gskabdwal/LeetCode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0831-largest-sum-of-averages](https://github.com/gskabdwal/LeetCode/tree/master/0831-largest-sum-of-averages) |
@@ -524,6 +525,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/gskabdwal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gskabdwal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/gskabdwal/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0792-binary-search](https://github.com/gskabdwal/LeetCode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/gskabdwal/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0808-number-of-matching-subsequences](https://github.com/gskabdwal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1087-longest-arithmetic-subsequence](https://github.com/gskabdwal/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
