@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gskabdwal/LeetCode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/gskabdwal/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/gskabdwal/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gskabdwal/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -691,6 +692,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gskabdwal/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gskabdwal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/gskabdwal/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gskabdwal/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -1003,6 +1005,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gskabdwal/LeetCode/tree/master/0015-3sum) |
 | [0295-find-median-from-data-stream](https://github.com/gskabdwal/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/gskabdwal/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gskabdwal/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
