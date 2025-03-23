@@ -13,11 +13,11 @@ class Solution {
     
     vector<int> ans;
 public:
-    vector<int> rightSideView(TreeNode* root,int lvl = 0) {
+    vector<int> rightSideView(TreeNode* root, int lvl = 0) {
         
         if(!root) return {};
 
-        if(ans.size()==lvl)ans.push_back(root->val);
+        if(ans.size()==lvl) ans.push_back(root->val);
 
         rightSideView(root->right, lvl+1);
         rightSideView(root->left, lvl+1);
