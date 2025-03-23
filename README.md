@@ -400,6 +400,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/gskabdwal/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1668-find-longest-awesome-substring](https://github.com/gskabdwal/LeetCode/tree/master/1668-find-longest-awesome-substring) |
 | [1880-largest-merge-of-two-strings](https://github.com/gskabdwal/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
+| [1894-merge-strings-alternately](https://github.com/gskabdwal/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/gskabdwal/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/gskabdwal/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gskabdwal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -1012,6 +1013,7 @@
 | [0985-bag-of-tokens](https://github.com/gskabdwal/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1080-camelcase-matching](https://github.com/gskabdwal/LeetCode/tree/master/1080-camelcase-matching) |
 | [1880-largest-merge-of-two-strings](https://github.com/gskabdwal/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
+| [1894-merge-strings-alternately](https://github.com/gskabdwal/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gskabdwal/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gskabdwal/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gskabdwal/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
